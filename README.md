@@ -1,5 +1,5 @@
 # Digital Analog Clock
-This is currently unfinished and may have some bugs but it can stil be used as a source of information.
+This is currently unfinished and may have some bugs but it can stil be used as a source of information though.
 
 This project drives an analog clock from an arduino by pulsing the clock coil. It gets it time from the DS3232 TRC chip over an SPI bus.
 
