@@ -3,8 +3,6 @@ This is currently unfinished and may have some bugs but it can stil be used as a
 
 This project drives an analog clock from an arduino by pulsing the clock coil.
 
-## Wiring
-
 ## Uploading
 To compile and upload the code 2 libraries are required:
 1. https://github.com/PaulStoffregen/Time
